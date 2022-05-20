@@ -17,11 +17,7 @@
 
 Users should be able to:
 
-#### - 
-
-#### - 
-
-#### - 
+#### - See the color changing nav bar as they scroll through the website
 
 ### Features
 [![PROJECT DEMO](https://dotcom.nlcdn.com/wp-content/uploads/2020/03/Product_Demo_Featured-1140x768@2x-80-min.jpg)](loom)
