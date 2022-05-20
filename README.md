@@ -24,9 +24,9 @@ Users should be able to:
 #### - 
 
 ### Features
+[![PROJECT DEMO](https://dotcom.nlcdn.com/wp-content/uploads/2020/03/Product_Demo_Featured-1140x768@2x-80-min.jpg)](loom)
 
 ### Project Demo
-
 [![PROJECT DEMO](https://dotcom.nlcdn.com/wp-content/uploads/2020/03/Product_Demo_Featured-1140x768@2x-80-min.jpg)](loom)
 
 ### Links
@@ -40,12 +40,10 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - VanillaJS
-- Asynchronous JavaScript
-- API Request
 - CSS custom properties
 - CSS Flexbox properties
 - CSS Grid properties
-- Media Queries
+- CSS Keyframes
 
 ## Author
 
