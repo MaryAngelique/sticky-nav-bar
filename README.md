@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Sticky Nav Bar GitHub Solution](https://github.com/MaryAngelique/sticky-nav-bar)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
