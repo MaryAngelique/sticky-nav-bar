@@ -28,8 +28,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Sticky Nav Bar GitHub Solution](https://github.com/MaryAngelique/sticky-nav-bar)
-- Live Site URL: [ Website](Deployed website)
-
+- Live Site URL: [Sticky Nav Bar Website
+](https://sticky-nav-bar.vercel.app/)
 ## My process
 
 ### Built with
